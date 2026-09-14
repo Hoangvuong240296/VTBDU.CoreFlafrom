@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="VTBDU.CoreFlafrom.API/VTBDU.CoreFlafrom.API.csproj" />
+  <Project Path="VTBDU.CoreFlafrom.Application/VTBDU.CoreFlafrom.Application.csproj" />
+  <Project Path="VTBDU.CoreFlafrom.Domain/VTBDU.CoreFlafrom.Domain.csproj" />
+  <Project Path="VTBDU.CoreFlafrom.Infrastrures/VTBDU.CoreFlafrom.Infrastrures.csproj" />
+</Solution>
